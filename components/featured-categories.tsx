@@ -16,14 +16,14 @@ const categories = [
     id: 2,
     title: "Signature Perfumes",
     description: "Exclusive fragrances for the discerning individual",
-    image: "/perfumes/Perfume2.jpeg",
+    image: "https://i.pinimg.com/736x/a2/9e/d4/a29ed40b687544a338365003e0f18a77.jpg",
     price: 395,
   },
   {
     id: 3,
     title: "Luxury Experiences",
     description: "Curated moments that transcend the ordinary",
-    image: "/perfumes/Perfume3.jpeg",
+    image: "https://i.pinimg.com/736x/a6/cd/38/a6cd386df6a9928bb395466a274e45c7.jpg",
     price: 5000,
   },
   {
