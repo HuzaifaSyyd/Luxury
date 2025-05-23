@@ -23,7 +23,7 @@ const fragrances = [
     name: "Amber Elixir",
     description: "Warm amber infused with vanilla and exotic spices",
     notes: ["Amber", "Vanilla", "Cinnamon", "Cardamom", "Tonka Bean"],
-    image: "/perfumes/Perfume2.jpeg",
+    image: "https://i.pinimg.com/736x/2f/82/25/2f82252747441ea99559e8343cd9c7c1.jpg",
   },
 ]
 
